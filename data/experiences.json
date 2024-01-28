@@ -1,0 +1,103 @@
+{
+  "companies": [
+    {
+      "company": "Finaxar (Flex)",
+      "position": "Director of Engineering",
+      "duration": "May 2022 - Oct 2023",
+      "achievements": [
+        {
+          "title": "Team Growth",
+          "description": "Expanded the product team to 15 from 2"
+        },
+        {
+          "title": "Cost Optimisation",
+          "description": "Realized a 35.2% reduction in operational & infrastructure costs by establishing a unit economic model partnering with Finance and Engineering teams"
+        },
+        {
+          "title": "Business Impact",
+          "description": "Built a Multi AZ, ledger system helping distribute debt capital of >$20 million across lending products"
+        }
+      ]
+    },
+    {
+      "company": "Vedantu",
+      "position": "Director of Engineering",
+      "duration": "Oct 2021 - May 2022",
+      "achievements": [
+        {
+          "title": "Ownership & Leadership",
+          "description": "Initiated three pivotal charters growing a team to 30+ from the initial 10+ member team, shaping Vedantu's engineering."
+        },
+        {
+          "title": "Cost Optimisation",
+          "description": "Achieved a 22% reduction in operational and infrastructure costs - migrating tech, implementing cold storage and others."
+        },
+        {
+          "title": "Operating Scale",
+          "description": "Managed an infrastructure team handling 1 million daily requests. Spearheaded the migration of a legacy batch-based data platform to a near real time data processing and analytical solution."
+        },
+        {
+          "title": "Business Impact",
+          "description": "Shifted focus to a growth-oriented data-driven strategy, aligning the entire C-suite, ultimately saving the organization $400k by avoiding an incorrect investment."
+        }
+      ]
+    },
+    {
+      "company": "Porter",
+      "position": "Senior Engineering Manager (Supply & Payments)",
+      "duration": "Dec 2020 – Sep 2021",
+      "achievements": [
+        {
+          "title": "Ownership & Leadership",
+          "description": "As the first engineering manager, established engineering management guidelines in collaboration with the CTO."
+        },
+        {
+          "title": "Team Growth",
+          "description": "Efficiently scaled the team to 30 from 3 engineers, managing a high-volume workload of 50,000 daily completed orders."
+        },
+        {
+          "title": "Operational Scale",
+          "description": "Led the supply team in doubling the order volume from 50,000 to 2X, by migrating from a legacy application to an event-driven system."
+        }
+      ]
+    },
+    {
+      "company": "GO-JEK",
+      "position": "Engineering Manager (Payments Platform & Infrastructure)",
+      "duration": "May 2016 - Aug 2020",
+      "achievements": [
+        {
+          "title": "Ownership & Leadership",
+          "description": "Pioneered critical projects, elevating the company to 30 million from 10 million Daily Active Users (DAU)."
+        },
+        {
+          "title": "Team Growth",
+          "description": "Oversaw team growth to 40 from 3 engineers, supporting 30M monthly active users."
+        },
+        {
+          "title": "Cost Optimisation",
+          "description": "Led various cross team migrations and optimisation, leading to an annual saving of $6 million."
+        },
+        {
+          "title": "Business Impact",
+          "description": "Introduced open-loop wallet, smoothly handling 10M DAU, and achieving a 50% cash-to-non-cash order ratio improvement with orders rising to 150k from 100k across all verticals."
+        }
+      ]
+    },
+    {
+      "company": "Meradata",
+      "position": "CoFounder (1x failed founder)",
+      "duration": "May 2012 - Jun 2015",
+      "achievements": [
+        {
+          "title": "Ownership & Leadership",
+          "description": "Steered the 0-1 GTM effort which helped generate annual revenue of $50k"
+        },
+        {
+          "title": "Team Growth",
+          "description": "Established a team from scratch, serving 50,000 customers with ~3,000 Monthly Active Users (MAU)."
+        }
+      ]
+    }
+  ]
+}
