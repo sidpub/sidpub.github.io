@@ -17,6 +17,7 @@ GEM
     coffee-script-source (1.12.2)
     concurrent-ruby (1.2.2)
     contracts (0.16.1)
+    date (3.3.4)
     dotenv (2.8.1)
     erubis (2.7.0)
     execjs (2.9.1)
@@ -78,12 +79,17 @@ GEM
       toml
       uglifier (~> 3.0)
       webrick
-    middleman-deploy (1.0.0)
+    middleman-deploy (2.0.0.pre.alpha)
       middleman-core (>= 3.2)
       net-sftp
       ptools
     mini_portile2 (2.8.5)
     minitest (5.21.1)
+    net-ftp (0.3.4)
+      net-protocol
+      time
+    net-protocol (0.2.2)
+      timeout
     net-sftp (4.0.0)
       net-ssh (>= 5.0.0, < 8.0.0)
     net-ssh (7.2.1)
@@ -113,6 +119,9 @@ GEM
     temple (0.10.3)
     thor (1.2.2)
     tilt (2.0.11)
+    time (0.3.0)
+      date
+    timeout (0.4.1)
     toml (0.3.0)
       parslet (>= 1.8.0, < 3.0.0)
     tzinfo (2.0.6)
@@ -129,7 +138,8 @@ DEPENDENCIES
   middleman
   middleman-autoprefixer
   middleman-blog (~> 4.0)
-  middleman-deploy (~> 1.0)
+  middleman-deploy (~> 2.0.0.pre.alpha)
+  net-ftp
   nokogiri
   tzinfo-data
   wdm (~> 0.1)
